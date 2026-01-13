@@ -34,4 +34,4 @@ Especialista em transformar processos manuais em soluções digitais eficientes.
 
 ---
 *Transformando dados em código e código em resultado.*
-[LinkedIn](https://www.linkedin.com/) • [Email](mailto:seuemail@exemplo.com)
+[LinkedIn](www.linkedin.com/in/luiz-filipe-nunes-da-silva-jaques-a3a749301) • [Email](luizsilva12330@gmail.com)
