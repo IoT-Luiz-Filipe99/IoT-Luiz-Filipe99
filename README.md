@@ -28,10 +28,5 @@ Especialista em transformar processos manuais em soluções digitais eficientes.
 | [**🔒 API Tech Manager**](https://github.com/IoT-Luiz-Filipe99/api-tech-manager) | **FastAPI • JWT** | Back-end robusto com autenticação segura para gerenciamento de ativos de TI. |
 
 ---
-
-### 📊 GitHub Stats
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=IoT-Luiz-Filipe99&show_icons=true&theme=tokyonight)
-
----
 *Transformando dados em código e código em resultado.*
 [LinkedIn](www.linkedin.com/in/luiz-filipe-nunes-da-silva-jaques-a3a749301) • [Email](luizsilva12330@gmail.com)
